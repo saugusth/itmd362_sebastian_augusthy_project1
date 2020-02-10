@@ -7,7 +7,7 @@ body{
 		margin:0 auto;
 		background-color:#00e7ff;
 	}
-	
+
 	#sign-up{
 		width:300px;
 		float:right;
@@ -28,5 +28,6 @@ body{
 
 	p{
 		font-size:1.6em;
+		text-align:justify;
 	}
 }
