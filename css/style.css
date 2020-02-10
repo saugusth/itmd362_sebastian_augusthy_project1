@@ -1,0 +1,9 @@
+body{
+
+}
+
+@media (min-width: 480px){
+	#sign-up{
+		text-align: right;
+	}
+}
