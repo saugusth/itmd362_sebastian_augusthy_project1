@@ -3,8 +3,12 @@ body{
 }
 
 @media (min-width: 480px){
+	body{
+		margin:0 auto;
+	}
 	#sign-up{
-		text-align: center;
+		width:300px;
+		float:right;
 		border: 2px solid black;
 	}
 	input {
