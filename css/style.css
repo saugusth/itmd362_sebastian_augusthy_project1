@@ -26,8 +26,6 @@ body {}
     margin-left: 10px;
   }
 
-  label {}
-
   h1 {
     font-size: 2em;
   }
@@ -36,5 +34,13 @@ body {}
     font-size: 1.6em;
     text-align: justify;
 
+  }
+
+  div{
+  	border: :2px solid #ccc;
+  	background-color: #eee;
+  	border-radius: 5px;
+  	padding:16px;
+  	margin:16px 0;
   }
 }
