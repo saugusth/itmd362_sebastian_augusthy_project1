@@ -33,7 +33,6 @@ body {}
   p {
     font-size: 1.6em;
     text-align: justify;
-
   }
 
   div{
@@ -43,4 +42,11 @@ body {}
   	padding:16px;
   	margin:16px 0;
   }
+  
+  div::after{
+  	content: "";
+  	clear: both;
+  	display: table;
+  }
+
 }
