@@ -42,11 +42,17 @@ body {}
   	padding:16px;
   	margin:16px 0;
   }
-  
+
   div::after{
   	content: "";
   	clear: both;
   	display: table;
   }
-
+  div img{
+  	width: 90px;
+  	height:90px;
+  	float: left;
+  	margin-right: 20px;
+  	border-radius: 50%;
+  }
 }
