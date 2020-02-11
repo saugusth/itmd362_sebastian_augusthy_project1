@@ -35,24 +35,30 @@ body {}
     text-align: justify;
   }
 
-  div{
-  	border: :2px solid #ccc;
-  	background-color: #eee;
-  	border-radius: 5px;
-  	padding:16px;
-  	margin:16px 0;
+  div {
+    border: :2px solid #ccc;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
   }
 
-  div::after{
-  	content: "";
-  	clear: both;
-  	display: table;
+  div::after {
+    content: "";
+    clear: both;
+    display: table;
   }
-  div img{
-  	width: 90px;
-  	height:90px;
-  	float: left;
-  	margin-right: 20px;
-  	border-radius: 50%;
+
+  div img {
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+
+  div span {
+    font-size: 20px;
+    margin-right: 15px;
   }
 }
