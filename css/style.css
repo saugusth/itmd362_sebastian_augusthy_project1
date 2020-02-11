@@ -1,43 +1,40 @@
-body{
+body {}
 
-}
+@media (min-width: 480px) {
+  body {
+    margin: 0 10px;
+    background-color: #00e7ff;
+  }
 
-@media (min-width: 480px){
-	body{
-		margin:0 10px;
-		background-color:#00e7ff;
-	}
-
-	#sign-up{
-		width:300px;
-		/*float:right;
+  #sign-up {
+    width: 300px;
+    /*float:right;
 		border: 2px solid black;*/
-		box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
-		background: #fff;
-		padding: 20px;
-		margin:8% auto 0;
-		text-align: left;
-	}
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: left;
+  }
 
-	input {
-  display: block;
-  border: 2px solid blue;
-  border-radius: 4px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-	}
-	label{
-		
-	}
+  input {
+    display: block;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
 
-	h1{
-		font-size: 2em;
-	}
+  label {}
 
-	p{
-		font-size:1.6em;
-		text-align:justify;
-		
-	}*/
+  h1 {
+    font-size: 2em;
+  }
+
+  p {
+    font-size: 1.6em;
+    text-align: justify;
+
+  }
 }
