@@ -9,6 +9,7 @@ body{
 	}
 
 	#sign-up{
+		margin-left: : 10px;
 		width:300px;
 		/*float:right;
 		border: 2px solid black;*/
@@ -16,7 +17,7 @@ body{
 		background: #fff;
 		padding: 20px;
 		margin:8% auto 0;
-		text-align: center;
+		text-align: left;
 	}
 
 	input {
@@ -28,7 +29,7 @@ body{
   margin-left: 10px;
 	}
 	label{
-		margin-left:10px;
+		
 	}
 
 	h1{
