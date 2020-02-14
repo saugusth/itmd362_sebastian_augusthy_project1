@@ -34,7 +34,7 @@ body {}
     text-align: justify;
   }
 
-  div {
+  #testimonial {
     border: :2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
@@ -42,13 +42,13 @@ body {}
     margin: 16px 0;
   }
 
-  div::after {
+  #testimonial::after {
     content: "";
     clear: both;
     display: table;
   }
 
-  div img {
+  #testimonial img {
     width: 90px;
     height: 90px;
     float: left;
@@ -56,7 +56,7 @@ body {}
     border-radius: 50%;
   }
 
-  div span {
+  #testimonial span {
     font-size: 20px;
     margin-right: 15px;
     font-weight: bold;
