@@ -35,6 +35,9 @@ body {}
     text-align: justify;
   }
 
+  #info{
+    width:50%;
+  }
   #testimonial {
     border: :2px solid #ccc;
     background-color: #eee;
