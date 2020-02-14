@@ -18,6 +18,10 @@ body {}
     margin-top: -390px;
   }
 
+  .size{
+    width:100%;
+  }
+
   input {
     display: block;
     border: 2px solid blue;
