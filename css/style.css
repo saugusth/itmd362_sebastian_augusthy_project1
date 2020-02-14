@@ -2,7 +2,7 @@ body {}
 
 @media (min-width: 480px) {
   body {
-    margin: 0 10px;
+    margin: 10px;
     background-color: #00e7ff;
   }
 
@@ -15,6 +15,7 @@ body {}
     text-align: left;
     float: right;
     margin-right: 40px;
+    margin-top: -390px;
   }
 
   input {
