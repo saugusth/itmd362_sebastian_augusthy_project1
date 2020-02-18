@@ -90,6 +90,10 @@ body {}
   }
 
   .size2 {
-    width: 15%;
+    width: 140px;
+  }
+
+  #login {
+    margin-left: 650px;
   }
 }
