@@ -87,6 +87,7 @@ body {}
     margin-top: -120px;
     width: 130px;
     height: 130px;
+    background-color: #00c9de;
   }
 
   .size2 {
@@ -96,6 +97,6 @@ body {}
   #login {
     margin-left: 650px;
     background-color: #00c9de;
-    width:900px;
+    width:600px;
   }
 }
