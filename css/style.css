@@ -8,7 +8,7 @@ body {}
 
   #sign-up {
     width: 50%;
-    height: 480px;
+    height: 490px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
     padding: 20px;
@@ -95,7 +95,6 @@ body {}
 
   #login {
     margin-left: 650px;
-    /*background-color: #00c9de;*/
     margin-top: -10px;
   }
   #rectangle{
