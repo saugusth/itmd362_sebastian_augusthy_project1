@@ -32,7 +32,6 @@ body {}
   }
 
   input {
-    display: block;
     border-radius: 4px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -92,8 +91,5 @@ body {}
 
   .size2 {
     width: 15%;
-  }
-  .size2 input[type=password]{
-    float:right;
   }
 }
