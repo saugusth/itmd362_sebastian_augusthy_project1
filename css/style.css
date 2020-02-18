@@ -17,6 +17,15 @@ body {}
     margin-top: -430px;
   }
 
+  #sign-up img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+  }
+  
   .size {
     width: 100%;
   }
@@ -71,14 +80,5 @@ body {}
     margin-right: 15px;
     font-weight: bold;
     margin-left: 35px;
-  }
-
-  #sign-up img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90px;
-    height: 90px;
-    border-radius: 50%;
   }
 }
