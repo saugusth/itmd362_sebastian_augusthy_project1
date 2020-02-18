@@ -96,5 +96,6 @@ body {}
   #login {
     margin-left: 650px;
     background-color: #00c9de;
+    width:900px;
   }
 }
