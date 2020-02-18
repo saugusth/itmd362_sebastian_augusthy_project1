@@ -97,11 +97,12 @@ body {}
     margin-left: 650px;
     margin-top: -10px;
   }
-  #rectangle{
+
+  #rectangle {
     width: 1300px;
     height: 55px;
     background: #00c9de;
-    margin-top:-60px;
+    margin-top: -60px;
     margin-left: -50px;
   }
 }
