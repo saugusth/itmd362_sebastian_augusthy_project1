@@ -87,7 +87,6 @@ body {}
     margin-top: -120px;
     width: 130px;
     height: 130px;
-    background-color: #00c9de;
   }
 
   .size2 {
@@ -96,7 +95,13 @@ body {}
 
   #login {
     margin-left: 650px;
-    background-color: #00c9de;
+    /*background-color: #00c9de;*/
     width:600px;
+  }
+  #rectangle{
+    width: 1200px;
+    height: 45px;
+    background: #00c9de;
+    margin-top:-50px;
   }
 }
