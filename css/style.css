@@ -81,4 +81,9 @@ body {}
     font-weight: bold;
     margin-left: 35px;
   }
+
+  #logo {
+    margin-left: -40px;
+    margin-top: -90px;
+  }
 }
