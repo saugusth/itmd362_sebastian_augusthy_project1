@@ -1,6 +1,16 @@
 body {}
 
-@media (min-width: 480px) {
+@media(min-width:320px) {
+    #rectangle {
+    width: 1300px;
+    height: 55px;
+    background: #00c9de;
+    margin-top: -90px;
+    margin-left: -50px;
+  }
+}
+
+@media (min-width: 1200px) {
   body {
     margin: 10px 30px;
     background-color: #00e7ff;
