@@ -44,7 +44,7 @@ body {}
   }
 
   p {
-    font-size: 1.6em;
+    font-size: 1.3em;
     text-align: justify;
   }
 
@@ -54,7 +54,7 @@ body {}
   }
 
   #testimonial {
-    border: :2px solid #ccc;
+    border:2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
     padding: 16px;
@@ -162,7 +162,7 @@ body {}
   }
 
   #testimonial {
-    border: :2px solid #ccc;
+    border:2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
     padding: 16px;
