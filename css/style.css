@@ -15,7 +15,7 @@ body {}
     margin: 8% auto 0;
     text-align: left;
     float: right;
-    margin-top: -440px;
+    margin-top: -560px;
   }
 
   #sign-up img {
@@ -44,7 +44,7 @@ body {}
   }
 
   p {
-    font-size: 1.3em;
+    font-size: 1.4em;
     text-align: justify;
   }
 
