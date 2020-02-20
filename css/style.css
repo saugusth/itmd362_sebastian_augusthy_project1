@@ -16,7 +16,7 @@ body {}
     text-align: left;
     float: right;
     margin-top: -440px;
-    margin-left:200px;
+    margin-left:800px;
   }
 
   #sign-up img {
@@ -108,6 +108,7 @@ body {}
   }
 }
 
+/*1200*/
 @media (min-width: 1200px) {
   body {
     margin: 10px 30px;
