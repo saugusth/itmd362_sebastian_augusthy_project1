@@ -1,6 +1,6 @@
 body {}
 
-@media(min-width:786px) {
+@media(min-width:768px) {
   body {
     margin: 10px 40px;
     background-color: #00e7ff;
@@ -51,7 +51,7 @@ body {}
 
   #info {
     margin-top: 20px;
-    width: 32%;
+    width: 40%;
   }
 
   #testimonial {
