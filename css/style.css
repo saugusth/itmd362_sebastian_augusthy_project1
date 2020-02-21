@@ -20,7 +20,8 @@ body {}
 
   #sign-up img {
     display: block;
-    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 90px;
     height: 90px;
     border-radius: 50%;
@@ -43,7 +44,7 @@ body {}
   }
 
   p {
-    font-size: 1.44em;
+    font-size: 22px;
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
@@ -59,7 +60,7 @@ body {}
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
-    height:200px;
+    height:130px;
   }
 
   #testimonial::after {
