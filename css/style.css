@@ -11,7 +11,7 @@ body {}
     height: 505px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
-    padding: 20px;
+    padding: 15px;
     margin: 8% auto 0;
     text-align: left;
     float: right;
@@ -39,12 +39,12 @@ body {}
   }
 
   h1 {
-    font-size: 2.3em;
+    font-size: 2.1em;
     margin-top: -20px;
   }
 
   p {
-    font-size: 1.2em;
+    font-size: 1.44em;
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
@@ -54,7 +54,7 @@ body {}
     width: 40%;
   }
 
-  #testimonial {
+  /*#testimonial {
     border:2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
@@ -66,7 +66,7 @@ body {}
     content: "";
     clear: both;
     display: table;
-  }
+  }*/
 
   #testimonial img {
     width: 90px;
