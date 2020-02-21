@@ -7,7 +7,7 @@ body {}
   }
 
   #sign-up {
-    width: 50%;
+    width: 40%;
     height: 505px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
@@ -15,7 +15,7 @@ body {}
     margin: 8% auto 0;
     text-align: left;
     float: right;
-    margin-top: -460px;
+    margin-top: -550px;
   }
 
   #sign-up img {
@@ -210,10 +210,13 @@ body {}
   }
 
   #rectangle {
+    display: block;
+    position: absolute;
     width: 1300px;
     height: 55px;
     background: #00c9de;
     margin-top: -60px;
     margin-left: -50px;
+    margin-bottom: 15px;
   }
 }
