@@ -55,12 +55,12 @@ body {}
   }
 
   #testimonial {
-    border:2px solid #ccc;
+    border: 2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
-    height:130px;
+    height: 130px;
   }
 
   #testimonial::after {
@@ -165,7 +165,7 @@ body {}
   }
 
   #testimonial {
-    border:2px solid #ccc;
+    border: 2px solid #ccc;
     background-color: #eee;
     border-radius: 5px;
     padding: 16px;
