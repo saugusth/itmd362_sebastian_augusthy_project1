@@ -1,4 +1,109 @@
-body {}
+body {
+  margin: 10px 20px;
+  background-color: #00e7ff;
+}
+
+#sign-up {
+  width: 40%;
+  height: 505px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: #f5f7fe;
+  padding: 20px;
+  text-align: left;
+  float: right;
+  margin-top: 30px;
+}
+
+#sign-up img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.size {
+  width: 100%;
+}
+
+input {
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 2.1em;
+  margin-top: -20px;
+}
+
+p {
+  font-size: 22px;
+  text-align: justify;
+  font-family: 'Lato', sans-serif;
+}
+
+#info {
+  float: left;
+  margin-top: 20px;
+  width: 40%;
+}
+
+#testimonial {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+  height: 130px;
+}
+
+#testimonial::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#testimonial img {
+  width: 90px;
+  height: 90px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+#testimonial span {
+  font-size: 20px;
+  margin-right: 15px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+
+#logo {
+  margin-left: -27px;
+  margin-top: -105px;
+  width: 130px;
+  height: 130px;
+}
+
+.size2 {
+  width: 140px;
+}
+
+#login {
+  margin-left: 200px;
+  margin-top: -10px;
+}
+
+#rectangle {
+  width: 1300px;
+  height: 55px;
+  background: #00c9de;
+  margin-top: -60px;
+  margin-left: -50px;
+}
 
 @media(min-width:768px) {
   body {
@@ -14,7 +119,7 @@ body {}
     padding: 20px;
     text-align: left;
     float: right;
-    margin-top:30px;
+    margin-top: 30px;
   }
 
   #sign-up img {
@@ -49,7 +154,7 @@ body {}
   }
 
   #info {
-    float:left;
+    float: left;
     margin-top: 20px;
     width: 40%;
   }
@@ -114,7 +219,7 @@ body {}
   body {
     margin: 10px 30px;
     background-color: #00e7ff;
-    width:1200px;
+    width: 1200px;
   }
 
   #sign-up {
@@ -159,7 +264,7 @@ body {}
   }
 
   #info {
-    float:left;
+    float: left;
     margin-top: 20px;
     width: 40%;
   }
@@ -170,7 +275,7 @@ body {}
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
-    height:90px;
+    height: 90px;
   }
 
   #testimonial::after {
