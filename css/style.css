@@ -114,6 +114,7 @@ body {}
   body {
     margin: 10px 30px;
     background-color: #00e7ff;
+    width:1200px;
   }
 
   #sign-up {
@@ -169,6 +170,7 @@ body {}
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
+    height:90px;
   }
 
   #testimonial::after {
@@ -189,12 +191,12 @@ body {}
     font-size: 20px;
     margin-right: 15px;
     font-weight: bold;
-    margin-left: 35px;
+    margin-left: -5px;
   }
 
   #logo {
     margin-left: -35px;
-    margin-top: -105px;
+    margin-top: -125px;
     width: 130px;
     height: 130px;
   }
