@@ -11,9 +11,10 @@ body {}
     height: 505px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
-    padding: 15px;
+    padding: 20px;
     text-align: left;
     float: right;
+    margin-top:30px;
   }
 
   #sign-up img {
@@ -121,11 +122,8 @@ body {}
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
     padding: 20px;
-    margin: 8% auto 0;
     text-align: left;
     float: right;
-    /*margin-top: -440px;*/
-    margin-left:550px;
   }
 
   #sign-up img {
@@ -160,6 +158,7 @@ body {}
   }
 
   #info {
+    float:left;
     margin-top: 20px;
     width: 40%;
   }
