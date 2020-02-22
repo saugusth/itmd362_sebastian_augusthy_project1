@@ -210,8 +210,6 @@ body {}
   }
 
   #rectangle {
-    display: block;
-    position: absolute;
     width: 1300px;
     height: 55px;
     background: #00c9de;
