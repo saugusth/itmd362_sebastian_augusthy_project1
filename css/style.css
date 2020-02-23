@@ -94,7 +94,7 @@ p {
 }
 
 #login input[type=text], input[type=password]{
-  width:100px;
+  width:200px;
 }
 
 #rectangle {
@@ -209,7 +209,7 @@ p {
     width: 1300px;
     height: 55px;
     background: #00c9de;
-    margin-top: 20px;
+    margin-top: -20px;
     margin-left: -50px;
   }
 }
