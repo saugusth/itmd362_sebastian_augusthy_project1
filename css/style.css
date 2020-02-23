@@ -93,8 +93,12 @@ p {
   margin-top: -10px;
 }
 
-#login input[type=username], input[type=password]{
-  width:300px;
+#login input[type=text], input[type=password]{
+  width:100px;
+}
+
+#login label{
+  font-size: 10px;
 }
 
 #rectangle {
