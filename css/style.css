@@ -97,13 +97,13 @@ p {
   width:200px;
 }
 
-#rectangle {
-  width: 1300px;
-  height: 55px;
-  background: #00c9de;
-  margin-top: -90px;
-  margin-left: -50px;
-}
+ #rectangle {
+    width: 1300px;
+    height: 55px;
+    background: #00c9de;
+    margin-top: -20px;
+    margin-left: -50px;
+ }
 
 @media(min-width:768px) {
   body {
