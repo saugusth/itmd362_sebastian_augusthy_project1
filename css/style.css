@@ -97,15 +97,13 @@ p {
   width:100px;
 }
 
-#login label{
-  font-size: 10px;
-}
+
 
 #rectangle {
   width: 1300px;
   height: 55px;
   background: #00c9de;
-  margin-top: -170px;
+  margin-top: -90px;
   margin-left: -50px;
 }
 
