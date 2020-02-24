@@ -1,6 +1,7 @@
 body {
   margin: 0 20px;
   background-color: #00e7ff;
+  width:364;
 }
 
 #sign-up {
@@ -35,7 +36,7 @@ input {
 
 h1 {
   font-size: 1.4em;
-  margin-top: 60px;
+  margin-top: -20px;
 }
 
 p {
