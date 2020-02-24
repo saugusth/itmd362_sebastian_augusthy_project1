@@ -1,7 +1,6 @@
 body {
   margin: 0 20px;
   background-color: #00e7ff;
-  width:364;
 }
 
 #sign-up {
@@ -55,6 +54,7 @@ p {
   border-radius: 5px;
   padding: 16px;
   margin: 16px 0;
+  width:340px;
 }
 
 #testimonial::after {
