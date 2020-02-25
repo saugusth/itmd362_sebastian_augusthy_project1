@@ -34,15 +34,16 @@ input {
 }
 
 h1 {
-  font-size: 1.4em;
+  font-size: 3.6em;
   margin-top: -20px;
 }
 
 p {
-  font-size: 1em;
+  font-size: 2.48em;
   text-align: justify;
   font-family: 'Lato', sans-serif;
 }
+
 
 #info {
   margin-top: 20px;
@@ -108,7 +109,7 @@ p {
   }
 
   #sign-up {
-    display:block;
+    display: block;
     width: 40%;
     height: 650px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
@@ -128,7 +129,7 @@ p {
     border-radius: 50%;
   }
 
-  #sign-up label{
+  #sign-up label {
     font-size: 2.48em;
   }
 
