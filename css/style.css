@@ -109,15 +109,14 @@ p {
 
   #sign-up {
     display:block;
-    width: 60%;
+    width: 40%;
     height: 650px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
     padding: 20px;
     text-align: left;
     float: right;
-    margin-top: -100px;
-    margin-left: 300px;
+    margin-top: 20px;
   }
 
   #sign-up img {
