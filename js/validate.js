@@ -1,11 +1,12 @@
 function validateForm() {
-  var x = document.forms["login_form"]["username"].value;
-  var y = document.forms["login_form"]["psw"].value;
-  if (x == "" || y == "") {
+  var a = document.forms["login_form"]["username"].value;
+  var b = document.forms["login_form"]["psw"].value;
+  var c = document.forms["sign-up_form"]["username"].value;
+  var d = document.forms["sign-up_form"]["psw"].value;
+  if (a == "" || b == "" || c == "" || d == "") {
     alert("Fields cannot be empty");
     return false;
-  }
-  else{
-  	alert("You are now logged in")
+  } else {
+    alert("You are now logged in")
   }
 }
