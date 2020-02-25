@@ -34,12 +34,12 @@ input {
 }
 
 h1 {
-  font-size: 6.2em;
+  font-size: 1.4em;
   margin-top: -20px;
 }
 
 p {
-  font-size: 4.3em;
+  font-size: 1em;
   text-align: justify;
   font-family: 'Lato', sans-serif;
 }
@@ -97,7 +97,7 @@ p {
 
 #rectangle {
   width: 1300px;
-  height: 90px;
+  height: 50px;
   background: #00c9de;
   margin-top: -60px;
   margin-left: -50px;
@@ -131,7 +131,7 @@ p {
   }
 
   #sign-up label {
-    font-size: 2.48em;
+    font-size: 1em;
   }
 
 
@@ -147,12 +147,12 @@ p {
   }
 
   h1 {
-    font-size: 3.6em;
+    font-size: 2em;
     margin-top: -20px;
   }
 
   p {
-    font-size: 2.48em;
+    font-size: 1.4em;
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
@@ -169,7 +169,7 @@ p {
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
-    height: 165px;
+    height: 120px;
   }
 
   #testimonial::after {
