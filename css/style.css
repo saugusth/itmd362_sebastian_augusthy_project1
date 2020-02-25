@@ -108,14 +108,16 @@ p {
   }
 
   #sign-up {
-    width: 40%;
-    height: 505px;
+    display:block;
+    width: 60%;
+    height: 650px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
     padding: 20px;
     text-align: left;
     float: right;
-    margin-top: 30px;
+    margin-top: -100px;
+    margin-left: 300px;
   }
 
   #sign-up img {
@@ -126,6 +128,11 @@ p {
     height: 90px;
     border-radius: 50%;
   }
+
+  #sign-up label{
+    font-size: 2.48em;
+  }
+
 
   .size {
     width: 100%;
@@ -139,12 +146,12 @@ p {
   }
 
   h1 {
-    font-size: 2.1em;
+    font-size: 3.6em;
     margin-top: -20px;
   }
 
   p {
-    font-size: 22px;
+    font-size: 2.48em;
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
@@ -152,7 +159,7 @@ p {
   #info {
     float: left;
     margin-top: 20px;
-    width: 40%;
+    width: 50%;
   }
 
   #testimonial {
@@ -161,7 +168,7 @@ p {
     border-radius: 5px;
     padding: 16px;
     margin: 16px 0;
-    height: 130px;
+    height: 165px;
   }
 
   #testimonial::after {
