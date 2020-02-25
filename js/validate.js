@@ -6,8 +6,8 @@ function validateForm1() {
     alert("Fields cannot be empty");
     return false;
   } 
-  else if (b.length < 6){
-    alert("Password must be the same 6 or more character password you made when you signed up");
+  else if (b.length < 8){
+    alert("Password must be the same 8 or more character password you made when you signed up");
     return false;  	
   }
   else {
