@@ -5,7 +5,12 @@ function validateForm1() {
   if (a == "" || b == "") {
     alert("Fields cannot be empty");
     return false;
-  } else {
+  } 
+  else if (b.length < 6){
+    alert("Password must be the same 6 or more character password you made when you signed up");
+    return false;  	
+  }
+  else {
     alert("You are now logged in")
     return true;
   }
