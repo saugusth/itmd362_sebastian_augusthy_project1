@@ -92,6 +92,7 @@ p {
 #login {
   margin-left: 60px;
   margin-top: -10px;
+  
 }
 
 #rectangle {
@@ -227,7 +228,7 @@ p {
 
   #sign-up {
     width: 50%;
-    height: 505px;
+    height: 700px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
     padding: 20px;
