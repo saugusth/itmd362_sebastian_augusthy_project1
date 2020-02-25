@@ -21,9 +21,13 @@ function validateForm2() {
   else if (c.length < 8) {
     alert("username must be more than 8 characters");
     return false;
+  }
+  else if (d.charAt(0) != d.charAt(0).toUpperCase()){
+    alert("Password must start with capital letter");
+    return false;	
   } 
   else {
-    alert("You are now logged in")
+    alert("You are now Signed-up in")
     return true;
   }  
 }
