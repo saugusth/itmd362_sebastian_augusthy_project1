@@ -5,10 +5,10 @@ body {
 
 #sign-up {
   width: 70%;
-  height: 505px;
+  height: 500px;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
   background: #f5f7fe;
-  padding: 20px;
+  padding: 30px;
   text-align: left;
   margin-top: 10px;
 }
@@ -35,7 +35,7 @@ input {
 
 h1 {
   font-size: 1.4em;
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 p {
@@ -83,6 +83,7 @@ p {
   margin-top: -105px;
   width: 90px;
   height: 90px;
+  display: none;
 }
 
 .size2 {
@@ -90,16 +91,20 @@ p {
 }
 
 #login {
-  margin-left: 60px;
+  margin-left: 20px;
   margin-top: -10px;
-  
+
+}
+
+#login input {
+  width: 70px;
 }
 
 #rectangle {
   width: 1300px;
   height: 50px;
   background: #00c9de;
-  margin-top: -60px;
+  margin-top: -50px;
   margin-left: -50px;
 }
 
@@ -194,6 +199,7 @@ p {
   }
 
   #logo {
+    display: initial;
     margin-left: -27px;
     margin-top: -105px;
     width: 130px;
@@ -304,6 +310,7 @@ p {
   }
 
   #logo {
+    display: initial;
     margin-left: -35px;
     margin-top: -125px;
     width: 130px;
