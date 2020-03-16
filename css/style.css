@@ -103,7 +103,7 @@ p {
   margin-left: -50px;
 }
 
-@media  (min-width:768px) {
+@media (min-width:768px) {
   body {
     margin: 10px 20px;
     background-color: #00e7ff;
@@ -219,7 +219,7 @@ p {
 }
 
 /*1200*/
-@media  (min-width: 1200px) {
+@media (min-width: 1200px) {
   body {
     margin: 10px 30px;
     background-color: #00e7ff;
@@ -228,10 +228,10 @@ p {
 
   #sign-up {
     width: 50%;
-    height: 700px;
+    height: 500px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #f5f7fe;
-    padding: 20px;
+    padding: 30px;
     text-align: left;
     float: right;
   }
